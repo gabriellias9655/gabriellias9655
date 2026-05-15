@@ -1,121 +1,153 @@
-<div align="center" style="position: relative;">
-  <img align="center" src="1.png" style = "width: 50%;"/>
-  <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Senior Software Engineer</h1>
+<div align="center">
+
+  <img src="1.png" alt="Gabriel Elias" width="100%" />
+
+  # Gabriel Elias
+
+  ### Senior Full Stack Engineer
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+web+%26+cloud+applications;Full+stack+%7C+APIs+%7C+DevOps+%7C+Clean+architecture;10%2B+years+shipping+production+software)](https://git.io/typing-svg)
+
+  [![GitHub](https://img.shields.io/badge/GitHub-gabriellias9655-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellias9655)
+  [![Email](https://img.shields.io/badge/Email-gabriellias9655%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellias9655@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-@astrodev9955-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dorieDev)
+
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=gabriellias9655&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
-<p align="center">
-  <a href="https://github.com/adonistoday"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20blockchain%20Engineer;5+%2B%20years%20of%20hands-on%20experience;10+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
+
+---
+
+## About Me
+
+I'm a **Senior Full Stack Engineer** who designs and delivers end-to-end products — from polished UIs to resilient APIs, databases, and deployment pipelines. I care about **readable code**, **predictable systems**, and **shipping value** on schedule.
+
+- Architect and build **SPAs**, **SSR apps**, and **REST/GraphQL APIs**
+- Design **relational & NoSQL** data models with performance in mind
+- Automate delivery with **Docker**, **CI/CD**, and cloud-friendly workflows
+- Mentor teams, review code, and align engineering with product goals
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
 </p>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
-<h1 align="center"></h1>
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
-  <div>
-     <div align="left">
-      <code><img alt="C#" height="50" width="50" src="https://img.icons8.com/color/2x/c-programming.png"></code>
-      <code><img  alt="C++" height="50" width="50" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></code>
-      <code><img  alt="C#" height="50" width="50" src="https://img.icons8.com/color/2x/c-sharp-logo.png"></code>
-      <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
-      <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
-      <a href="https://www.java.com" target="_blank"> 
-        <code><img  alt="java" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
-      </a> 
-      <a href="https://www.qt.io/" target="_blank">
-        <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
-      </a>
-      <code><img alt="Kadu-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
-      <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>
-      <code><img alt="CSS3" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png"/></code>
-      <code><img alt="html5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
-      <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code>
-      <code><img alt="Postgreesql" height="50" width="50" src="https://img.icons8.com/color/2x/postgreesql.png"/></code>
-      <code><img alt="MariaDB" height="50" width="50" src="https://img.icons8.com/fluency/2x/maria-db.png"/></code>
-      <code><img alt="MariaDB" height="50" width="50" src="https://img.icons8.com/color/2x/mysql-logo.png"/></code>
-       <a href="https://www.sqlite.org/" target="_blank">
-         <code><img alt="sqlite" width="50" height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" /></code>
-      </a>
-      <code><img  alt="jQuery" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/344/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png" /></code>
-      <code><img alt="Bootstrap" height="50" width="50" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
-      <a href="https://sass-lang.com" target="_blank"> 
-         <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank"> 
-        <code><img alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
-      </a>
-      <a href="https://www.gatsbyjs.com/" target="_blank">
-        <code><img alt="gatsby" width="50" height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"/></code>
-      </a> 
-      <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
-      <code><img alt="Vue" height="50" width="50" src="https://img.icons8.com/color/2x/vue-js.png" /></code>
-      <code><img alt="Nuxt" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" /></code>
-      <code><img alt="Kadu-Angular" height="50" width="50" src="https://img.icons8.com/color/2x/angularjs.png" /></code>
-      <code><img alt="Kadu-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-      <code><img alt="Express.js" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" /></code>
-      <code><img alt="Unity icon" height="50" width="50" src="https://img.icons8.com/color/2x/django.png" /></code>
-      <code><img alt="Laravel" height="50" width="50" src="https://img.icons8.com/fluency/2x/laravel.png" /></code>
-      <code><img alt="Laravel" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" /></code>
-      <code><img  alt="Docker" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" /></code>
-      <code><img alt="Git" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" /></code>
-      <code><img alt="GraphQL" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/graphql.png" /></code>
-      <code><img alt="WooCommerce" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" /></code>
-      <code><img alt="WordPress" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" /></code>
-      <code><img alt="Shopify" height="50"  width="50"  src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/shopify-icon.png"/></code>
-      <a href="https://redux.js.org" target="_blank">
-        <code><img alt="Redux" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg"  /></code>
-      </a>
-      <a href="https://redis.io" target="_blank">
-        <code><img alt="redis" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"/></code>
-      </a>
-       <a href="https://firebase.google.com/" target="_blank"> 
-         <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></code>
-      </a>
-      <a href="https://www.chartjs.org" target="_blank"> 
-        <code><img alt="chartjs" width="50" height="50" src="https://www.chartjs.org/media/logo-title.svg"/></code>
-      </a> 
-      <a href="https://www.electronjs.org" target="_blank"> 
-        <code><img alt="electron" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></code>
-      </a>
-    </div>
-  </div>
-<div style="margin: 10px 0px; border-bottom: solid 1px white;">
-  <a href="https://github.com/topdev9655"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <a href="https://github.com/topdev9655"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
-  <a href="https://github.com/topdev9655"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></a>
+### Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="Nuxt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" height="40" alt="Gatsby" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="Electron" />
+</p>
+
+### Backend & APIs
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" />
+</p>
+
+### Databases & Caching
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+</p>
+
+### DevOps, Tools & Platforms
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="WooCommerce" />
+</p>
+
+---
+
+## What I Focus On
+
+| Area | Highlights |
+|------|------------|
+| **Frontend** | Component-driven UIs, state management, responsive design, performance tuning |
+| **Backend** | REST & GraphQL APIs, auth, validation, background jobs, integrations |
+| **Data** | Schema design, migrations, indexing, caching strategies |
+| **Delivery** | Dockerized services, reproducible builds, maintainable CI workflows |
+| **Quality** | Code reviews, testing mindset, documentation that teams actually use |
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellias9655&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellias9655&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellias9655&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellias9655&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm open to **collaboration**, **freelance projects**, and **full-time opportunities**.
+
+<p align="left">
+  <a href="https://github.com/gabriellias9655">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:gabriellias9655@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://t.me/dorieDev">
+    <img src="https://img.shields.io/badge/Telegram-@astrodev9955-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+  *Thanks for stopping by — feel free to star a repo or reach out if something catches your eye.*
+
 </div>
-
-
-<summary><h2>📊 Github Stats and Activity</h2></summary>
-
-<!--   <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-
-  <!-- <h3>💻 GitHub Profile Stats</h3> -->
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=topdev9655&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> -->
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=topdev9655&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a> -->
-  <br/> -->
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=topdev9655&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
-
-</details>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <div style="display: flex; align-items: center;">
-      <a href="https://t.me/dorieDev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">@astrodev9955</b>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <a href="mailto:todaydev0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">gabriellias9655@gmail.com</b>
-    </div>
-  </div>
-<div>
