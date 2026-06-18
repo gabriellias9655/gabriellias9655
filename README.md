@@ -2,7 +2,7 @@
 
   <img src="1.png" alt="Gabriel Elias" width="100%" />
 
-  # Gabriel Elias
+  # Ricardo Pozon
 
   ### Senior Full Stack Engineer
 
